@@ -9,3 +9,6 @@ Technical notes.
 - Material - ABS, other materials could be used.
 - Printer - Fused Filament Fabrication, other printing methods could be used.
 - This device presents is straightforward to print - no support material needs to be used as any holes are small.
+
+![3d render of security widget](twin_usb_seal_production.png)
+![3d render of security widget](keyboard_dongle_security_clamp.png)
