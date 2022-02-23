@@ -3,7 +3,7 @@ This 3d printed model was created out of  the necessity of being able to have a 
 This device is more of an anti-tamper than a fully fledged bomb-proof locking mechanism, a hammer or heavy boot could gain access.
 
 The usb cables are place in side and then the container is sealed [with a cable seal such as this one](https://www.ebay.co.uk/itm/333854479249?hash=item4dbb471391:g:tg0AAOSw0Nxf~LFj)
-or [this one](https://www.amazon.co.uk/Security-Seals-Cable-Aluminium-100pcs/dp/B07RPFTKMD/ref=sr_1_33?crid=1G5RI2NIEGL34&keywords=steel+security+tags&qid=1644922079&sprefix=steel+secuity+tags%2Caps%2C64&sr=8-33) the insert.
+or [this one](https://www.amazon.co.uk/Security-Seals-Cable-Aluminium-100pcs/dp/B07RPFTKMD/ref=sr_1_33?crid=1G5RI2NIEGL34&keywords=steel+security+tags&qid=1644922079&sprefix=steel+secuity+tags%2Caps%2C64&sr=8-33) through the insert.
 
 Technical notes.
 - Material - ABS, other materials could be used.
