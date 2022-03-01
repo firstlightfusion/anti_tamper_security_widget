@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Burke"
-  given-names: "Clive"
 - family-names: "Gardiner"
   given-names: "Jonathan"
+- family-names: "Burke"
+  given-names: "Clive"
 title: "Anti Tamper Security Widget"
 version: 1.0.0
 date-released: 2022-2-28
